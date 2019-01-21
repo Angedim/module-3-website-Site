@@ -1,3 +1,6 @@
 .menubox1 {width:30%; display:inline-block; border:1px solid #000;}
 .menubox2 {width:30%; display:inline-block; border:1px solid #000;}
-.menutitle {float:right; border:1px solid #000; display:block;}
+.menubox3 {width:30%; display:inline-block; border:1px solid #000;}
+.menutitle1 {float:right; border:1px solid #000; display:block; box-sizing: border-box; background-color:#ffdc00;}
+.menutitle2 {float:right; border:1px solid #000; display:block; box-sizing: border-box; background-color:#f62900;}
+.menutitle3 {float:right; border:1px solid #000; display:block; box-sizing: border-box; background-color:#00f906;}
