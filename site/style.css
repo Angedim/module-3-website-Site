@@ -1,7 +1,7 @@
 .menubox1 {width:30%; display:inline-block; border:1px solid #000;}
 .menubox2 {width:30%; display:inline-block; border:1px solid #000;}
 .menubox3 {width:30%; display:inline-block; border:1px solid #000;}
-.menutitle1 {padding:5px 20px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#ffdc00;}
-.menutitle2 {padding:5px 20px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#f62900;}
-.menutitle3 {padding:5px 20px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#00f906;}
-.dummytext {padding:30px 10px 10px 10px;}
+.menutitle1 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#ffdc00;}
+.menutitle2 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#f62900;}
+.menutitle3 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#00f906;}
+.dummytext {padding:40px 10px 10px 10px;}
