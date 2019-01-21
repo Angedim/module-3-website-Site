@@ -1,2 +1,2 @@
-.menubox1 {width:33%; border:1px solid #000;}
-.menubox2 {width:33%; border:1px solid #000;}
+.menubox1 {width:33%; display:inline-block; border:1px solid #000;}
+.menubox2 {width:33%; display:inline-block; border:1px solid #000;}
