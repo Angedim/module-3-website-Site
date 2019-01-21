@@ -12,8 +12,8 @@ body {font-family:helvetica}
 
 /* Tablet View */
 @media (min-width: 768px) and (max-width: 991px) {
-.menubox1 {width:49%;}
-.menubox2 {width:49%;}
+.menubox1 {width:48%;}
+.menubox2 {width:48%;}
 .menubox3 {width:100%;}
 }
 
