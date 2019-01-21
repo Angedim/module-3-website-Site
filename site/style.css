@@ -15,8 +15,9 @@ body {font-family:'Sans Serif';}
 .menubox3 {width:97%;}
 }
 
-@media (min-width: 992px) {
-.menubox1 {width:31%;}
-.menubox2 {width:31%;}
-.menubox3 {width:31%;}
+/* Mobile */
+@media (max-width: 767px) {
+.menubox1 {width:97%;}
+.menubox2 {width:97%;}
+.menubox3 {width:97%;}
 }
