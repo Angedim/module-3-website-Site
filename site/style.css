@@ -1,8 +1,8 @@
 .pagetitle {text-align:center;}
-.menubox1 {width:30%; display:inline-block; border:2px solid #000; background-color:#dedede;}
-.menubox2 {width:30%; display:inline-block; border:2px solid #000; background-color:#dedede;}
-.menubox3 {width:30%; display:inline-block; border:2px solid #000; background-color:#dedede;}
-.menutitle1 {padding:5px 30px; float:right; border:2px solid #000; box-sizing: border-box; background-color:#c78486;}
-.menutitle2 {padding:5px 30px; float:right; border:2px solid #000; box-sizing: border-box; background-color:#ae2f33;}
-.menutitle3 {padding:5px 30px; float:right; border:2px solid #000; box-sizing: border-box; background-color:#dec783;}
+.menubox1 {width:30%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box;}
+.menubox2 {width:30%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box;}
+.menubox3 {width:30%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box;}
+.menutitle1 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#c78486;}
+.menutitle2 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#ae2f33;}
+.menutitle3 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#dec783;}
 .dummytext {padding:40px 10px 10px 10px;}
