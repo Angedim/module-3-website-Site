@@ -10,14 +10,14 @@ body {font-family:'Sans Serif';}
 
 /* Tablet */
 @media (max-width: 991px) and (min-width: 768px) {
-.menubox1 {width:47%;}
-.menubox2 {width:47%;}
-.menubox3 {width:97%;}
+.menubox1 {width:48%;}
+.menubox2 {width:48%;}
+.menubox3 {width:98%;}
 }
 
 /* Mobile */
 @media (max-width: 767px) {
-.menubox1 {width:97%;}
-.menubox2 {width:97%;}
-.menubox3 {width:97%;}
+.menubox1 {width:98%;}
+.menubox2 {width:98%;}
+.menubox3 {width:98%;}
 }
