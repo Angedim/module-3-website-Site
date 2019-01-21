@@ -1,30 +1,23 @@
 body {font-family:helvetica}
 .pagetitle {text-align:center; font-size:1.75em;}
-.menubox1 {display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1%;}
-.menubox2 {display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1%;}
-.menubox3 {display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1%;}
+.menubox1 {width:97%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1%;}
+.menubox2 {width:97%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1%;}
+.menubox3 {width:97%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1%;}
 .menutitle1 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#c78486; font-size:1.25em;}
 .menutitle2 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#ae2f33; color:#fff; font-size:1.25em;}
 .menutitle3 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#dec783; font-size:1.25em;}
 .dummytext {padding:40px 10px 10px 10px;}
+
+/* Tablet View */
+@media only screen and (min-width: 768px) {
+.menubox1 {width:47%;}
+.menubox2 {width:47%;}
+.menubox3 {width:97%;}
+}
 
 /* Desktop View */
 @media only screen and (min-width: 992px) {
 .menubox1 {width:31%;}
 .menubox2 {width:31%;}
 .menubox3 {width:31%;}
-}
-
-/* Tablet View */
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-.menubox1 {width:47%;}
-.menubox2 {width:47%;}
-.menubox3 {width:97%;}
-}
-
-/* Mobile View */
-@media only screen and (max-width: 767px) {
-.menubox1 {width:97%;}
-.menubox2 {width:97%;}
-.menubox3 {width:97%;}
 }
