@@ -10,8 +10,8 @@ body {font-family:'Sans Serif';}
 
 /* Tablet */
 @media (max-width: 991px) and (min-width: 768px) {
-.menubox1 {width:47.8%;}
-.menubox2 {width:47.8%;}
+.menubox1 {width:47.7%;}
+.menubox2 {width:47.7%;}
 .menubox3 {width:98%;}
 }
 
