@@ -1,8 +1,8 @@
 body {font-family:helvetica}
 .pagetitle {text-align:center; font-size:1.75em;}
-.menubox1 {width:31%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1.15%; float:left;}
-.menubox2 {width:31%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1.15%; float:left;}
-.menubox3 {width:31%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1.15%; float:left;}
+.menubox1 {width:31%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1.15%;}
+.menubox2 {width:31%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1.15%;}
+.menubox3 {width:31%; display:inline-block; border:2px solid #000; background-color:#dedede; box-sizing: border-box; margin:1.15%;}
 .menutitle1 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#c78486; font-size:1.25em;}
 .menutitle2 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#ae2f33; color:#fff; font-size:1.25em;}
 .menutitle3 {padding:5px 30px; float:right; border:1px solid #000; box-sizing: border-box; background-color:#dec783; font-size:1.25em;}
